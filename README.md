@@ -1,2 +1,2 @@
 # Trees
-AvL, Binary Search Trees, Expression Tree
+AVL, Binary Search Trees, Expression Tree
