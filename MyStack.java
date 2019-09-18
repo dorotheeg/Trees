@@ -1,6 +1,6 @@
 import java.util.EmptyStackException;
 import java.util.LinkedList;
-/*COMS 3134 - HW2 Programming SolutionsSpring 2018 - Dave Epstein*/
+
 public class MyStack<E> {
     private LinkedList<E> dataList = new LinkedList<E>();
     
